@@ -1,2 +1,4 @@
-x = 5
-print(5)
+def test():
+    x = 5
+    return x
+print(test())
