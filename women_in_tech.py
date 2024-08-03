@@ -1,6 +1,6 @@
-import pandas
-import numpy
 import awswrangler
+import numpy
+import pandas
 
 def test():
     x = 5
